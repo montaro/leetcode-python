@@ -10,7 +10,3 @@ class Solution:
             else:
                 result.append(False)
         return result
-
-
-if __name__ == '__main__':
-    print('Hello World!')
